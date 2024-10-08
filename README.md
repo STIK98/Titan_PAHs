@@ -22,3 +22,11 @@ The goal of this project is to:
 - Investigate how PAHs form and evolve in Titan’s atmosphere.
 - Correlate PAH concentrations with the atmospheric composition and conditions observed by Cassini.
 - Publish findings in a comprehensive thesis and contribute to the ongoing research on Titan's atmosphere.
+
+## Contributions
+
+Feel free to submit issues or pull requests if you'd like to contribute to this project.
+
+## License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
