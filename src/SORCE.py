@@ -51,8 +51,8 @@ solar_flux_titan_july = [irradiance * (AU_EARTH / AU_TITAN) ** 2 for irradiance 
 # Calculate solar flux at Titan using the inverse-square law for August
 solar_flux_titan_august = [irradiance * (AU_EARTH / AU_TITAN) ** 2 for irradiance in irradiances_august]
 
-print(solar_flux_titan_july[:5])  # Print first 5 values for verification
-print(solar_flux_titan_august[:5])  # Print first 5 values for verification
+# print(solar_flux_titan_july[:5])  # Print first 5 values for verification
+# print(solar_flux_titan_august[:5])  # Print first 5 values for verification
 
 #calulate the corresponding errors to the new values
 solar_flux_titan_july_error = [error * (AU_EARTH / AU_TITAN) ** 2 for error in errors_july]
@@ -78,4 +78,4 @@ def collect_irradiance_data():
 irradiance_data = collect_irradiance_data()
 
 # Example usage: print the first 5 wavelengths for July
-print(len(irradiance_data['july']['irradiances']))
+# print(len(irradiance_data['july']['irradiances']))
