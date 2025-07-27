@@ -1,1 +1,1 @@
-
+Please download version 1.20, 3.20, and 4.00 of the NASA Ames PAH IR Spectroscopic database via this link: https://www.astrochemistry.org/pahdb/theoretical/3.20/download/view, and put them in this directory.
