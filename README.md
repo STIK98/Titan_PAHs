@@ -63,8 +63,6 @@ Happy coding! If you have any questions or comments, please contact me at [fj.st
 
 ## Bibliography
 
-## Bibliography
-
 [1] López-Puertas, Manuel, et al. "Large abundances of polycyclic aromatic hydrocarbons in Titan's upper atmosphere." *The Astrophysical Journal* 770.2 (2013): 132.  
 
 [2] Bauschlicher, C. W., Jr., Ricca, A., Boersma, C., Allamandola, L. J. "The NASA Ames PAH IR Spectroscopic Database: Computational Version 3.00 with Updated Content and the Introduction of Multiple Scaling Factors." *The Astrophysical Journal Supplement Series*, 234, 32 (2018).  
