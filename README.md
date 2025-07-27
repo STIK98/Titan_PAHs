@@ -63,17 +63,15 @@ Happy coding! If you have any questions or comments, please contact me at [fj.st
 
 ## Bibliography
 
-[1] López-Puertas, Manuel, et al. "Large abundances of polycyclic aromatic hydrocarbons in Titan's upper atmosphere." *The Astrophysical Journal* 770.2 (2013): 132.
-[2] Bauschlicher, C. W., Jr., Ricca, A., Boersma, C., Allamandola, L. J. "The NASA Ames PAH IR Spectroscopic Database: Computational Version 3.00 with Updated Content and the Introduction of Multiple Scaling Factors", *The Astrophysical Journal Supplement Series*, 234, 32 (2018).
-[3] Boersma, C., Bauschlicher, C. W., Jr., Ricca, A., Mattioda, A. L., Cami, J., Peeters, E., Sánchez de Armas, F., Puerta Saborido, G., Hudgins, D. M., Allamandola, L. J. "The NASA Ames PAH IR Spectroscopic Database Version 2.00: Updated Content, Website and On/Offline Tools", *The Astrophysical Journal Supplement Series*, 211, 8 (2014).
-[4] Mattioda, A. L., Hudgins, D. M., Boersma, C., Ricca, A., Peeters, E., Cami, J., Sánchez de Armas, F., Puerta Saborido, G., Bauschlicher, C. W., Jr., Allamandola, L. J. "The NASA Ames PAH IR Spectroscopic Database: The Laboratory Spectra", *The Astrophysical Journal Supplement Series*, 251, 22 (2020).
-[5] Mattioda, Andrew L., et al. "Near-infrared spectroscopy of nitrogenated polycyclic aromatic hydrocarbon cations from 0.7 to 2.5 μm." The Astrophysical Journal 680.2 (2008): 1243.
-[6] Dinelli, B. M., et al. "An unidentified emission in Titan's upper atmosphere." Geophysical Research Letters 40.8 (2013): 1489-1493.
+[1] López-Puertas, Manuel, et al. (2013). "Large abundances of polycyclic aromatic hydrocarbons in Titan's upper atmosphere." *The Astrophysical Journal*, 770(2), 132.  
+[2] Bauschlicher, C. W., Jr., Ricca, A., Boersma, C., Allamandola, L. J. (2018). "The NASA Ames PAH IR Spectroscopic Database: Computational Version 3.00 with Updated Content and the Introduction of Multiple Scaling Factors." *The Astrophysical Journal Supplement Series*, 234, 32.  
+[3] Boersma, C., Bauschlicher, C. W., Jr., Ricca, A., Mattioda, A. L., Cami, J., Peeters, E., Sánchez de Armas, F., Puerta Saborido, G., Hudgins, D. M., Allamandola, L. J. (2014). "The NASA Ames PAH IR Spectroscopic Database Version 2.00: Updated Content, Website and On/Offline Tools." *The Astrophysical Journal Supplement Series*, 211, 8.  
+[4] Mattioda, A. L., Hudgins, D. M., Boersma, C., Ricca, A., Peeters, E., Cami, J., Sánchez de Armas, F., Puerta Saborido, G., Bauschlicher, C. W., Jr., Allamandola, L. J. (2020). "The NASA Ames PAH IR Spectroscopic Database: The Laboratory Spectra." *The Astrophysical Journal Supplement Series*, 251, 22.  
+[5] Mattioda, A. L., et al. (2008).  
+[6] Dinelli, B. M., et al. (2011).  
 
 ## Contributions
-
 Feel free to submit issues or pull requests if you'd like to contribute to this project. Many thanks to Dr. Alessandra Candian and Prof. Dr. Manuel López-Puertas for their help.
 
 ## License
-
 This project is licensed under the MIT License – see the LICENSE file for details.
